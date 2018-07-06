@@ -1,4 +1,4 @@
-module de.miwoe.java10.sample {
+module de.miwoe.jigsaw.spring.sample {
     requires spring.context;
     requires spring.boot;
     requires spring.boot.autoconfigure;
