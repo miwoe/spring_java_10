@@ -1,4 +1,4 @@
-module de.miwoe.java10.a {
+module de.miwoe.java10.sample {
     requires spring.context;
     requires spring.boot;
     requires spring.boot.autoconfigure;
